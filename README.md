@@ -1,1 +1,1 @@
-# examp
+# Example for practice
